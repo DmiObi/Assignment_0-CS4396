@@ -1,3 +1,3 @@
 ## Assignment 0
 
-Open it [here](Assignmnent_0.pdf)
+Open it [here](blob/main/Assignment_0.pdf)
