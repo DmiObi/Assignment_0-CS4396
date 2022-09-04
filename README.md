@@ -1,1 +1,3 @@
-# Assignment_0-CS4396
+## Assignment 0
+
+Open it [here](Assignmnet_0.pdf)
